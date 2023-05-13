@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.openai.com/labs/images/A%203D%20render%20of%20an%20astronaut%20walking%20in%20a%20green%20desert.webp?v=1",
+    "title": "A 3D render of an astronaut walking in a green desert",
+    "category": ["Branding", "Website", "App"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.openai.com/labs/images/A%20synthwave%20style%20sunset%20above%20the%20reflecting%20water%20of%20the%20sea,%20digital%20art.webp?v=1",
+    "title": "A synthwave style sunset above the reflecting water of the sea, digital art",
+    "category": ["Logo", "Website", "Mobile"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.openai.com/labs/images/A%20photo%20of%20a%20teddy%20bear%20on%20a%20skateboard%20in%20Times%20Square.webp?v=1",
+    "title": "A photo of a teddy bear on a skateboard in Times Square",
+    "category": ["Website", "UI/UX"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.openai.com/labs/images/A%20centered%20explosion%20of%20colorful%20powder%20on%20a%20black%20background.webp?v=1",
+    "title": "A centered explosion of colorful powder on a black background",
+    "category": ["Branding", "Website", "Mobile"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.openai.com/labs/images/A%203D%20render%20of%20a%20rainbow%20colored%20hot%20air%20balloon%20flying%20above%20a%20reflective%20lake.webp?v=1",
+    "title": "A 3D render of a rainbow colored hot air balloon flying above a reflective lake",
+    "category": ["Design", "Development"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.openai.com/labs/images/A%20Formula%201%20car%20driving%20on%20a%20neon%20road.webp?v=1",
+    "title": "A Formula 1 car driving on a neon road",
+    "category": ["Logo", "Webapp", "Mobile"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.openai.com/labs/images/3D%20render%20of%20a%20cute%20tropical%20fish%20in%20an%20aquarium%20on%20a%20dark%20blue%20background,%20digital%20art.webp?v=1",
+    "title": "3D render of a cute tropical fish in an aquarium on a dark blue background, digital art",
+    "category": ["Branding", "Website", "App"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.openai.com/labs/images/A%20blue%20orange%20sliced%20in%20half%20laying%20on%20a%20blue%20floor%20in%20front%20of%20a%20blue%20wall.webp?v=1",
+    "title": "A blue orange sliced in half laying on a blue floor in front of a blue wall",
+    "category": ["Logo", "Website", "Mobile"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "body": [
+      "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+      "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+    ]
+  }
+]
